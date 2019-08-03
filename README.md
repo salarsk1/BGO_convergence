@@ -1,2 +1,2 @@
 # BGO_convergence
-The code to revaluate the convergence og the Bayesian global optimization in parallel.
+This code is to revaluate the convergence og the Bayesian global optimization in parallel.
